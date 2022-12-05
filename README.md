@@ -1,1 +1,1 @@
-# rsschool-cv
+https://devvados.github.io/rsschool-cv/
