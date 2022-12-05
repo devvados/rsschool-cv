@@ -1,4 +1,4 @@
-# Sotware Developer
+# Software Developer
 [<img src="getemployeephoto.JPG" width="150" height=""/>](/getemployeephoto.JPG)
 
 ## Personal Information
